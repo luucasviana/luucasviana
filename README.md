@@ -13,7 +13,7 @@
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
   
-  <img src="dev.png" min-width="300px" max-width="300px" width="300px" align="right" alt="workspace image">
+  <img src="dev.svg" min-width="250px" max-width="250px" width="250px" align="right" alt="workspace image">
   
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
