@@ -1,4 +1,4 @@
-# Olá, meu nome social é Lucas Viana!
+# Olá, meu nome é Lucas Viana!
 
 ➡️ Student Developer <br>
 ➡️ Análise e Desenvolvimento de Sistemas | Segundo Período
