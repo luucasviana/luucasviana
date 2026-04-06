@@ -1,8 +1,5 @@
 # Olá, meu nome é Lucas Viana!
 
-➡️ Student Developer <br>
-➡️ Análise e Desenvolvimento de Sistemas | Segundo Período
-
 <br>
 
 ## 🔥 Tecnologias que uso no meu dia a dia de estudos
